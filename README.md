@@ -42,6 +42,19 @@ backend / server
 └── index.js
 </pre>
 
+# err-commerce
+
+UserStories
+https://docs.google.com/document/d/1yziCpXyotwvsAhc7xoT19-TRpSxTp1cEcRe4UE3ja7U/edit?usp=sharing
+=========
+
+models
+https://docs.google.com/document/d/1fsCrgyWpuyZKTfx1T8h0_pCOpA0jhogzw0YZOcALCY8/edit?usp=sharing
+=========
+
+boilerplate code
+https://github.com/fullstack-hy2020/create-app
+
 Most of which is familiar through the course. In addition there are the files in the root.
 
 ## root files ##
