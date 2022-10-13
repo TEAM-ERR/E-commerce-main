@@ -1,5 +1,5 @@
 # create-app
-Simple boilerplate
+Simple boilerplate: https://github.com/TEJ-Fellowship/create-app-scss-parcel
 
 # What?
 
